@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Buttons</title>
+</head>
+<body style="font-size: 40px">
+<button style="background-image: linear-gradient(to right,pink,yellow,white)">Click</button>
+<button style="background-image: linear-gradient(to left,pink,purple,cyan)">Click</button>
+<button style="background-image: linear-gradient(peachpuff,yellow,red)">Click</button>
+
+
+
+</body>
+</html>

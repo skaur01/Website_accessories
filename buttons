@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Buttons</title>
+</head>
+<body style="font-size: 40px">
+<button style="background-color: yellow">Click</button>
+<button style="background-color: pink">Click</button>
+<button style="background-color: purple">Click</button>
+<button style="background-color: green">Click</button>
+<button style="background-color: red">Click</button>
+<button style="background-color: blue">Click</button>
+
+</body>
+</html>
